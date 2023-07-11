@@ -1,0 +1,16 @@
+{
+  "author": "watton pelado",
+  "name": "el uno",
+  "nodes": [
+    {
+      "name": "internal",
+      "type": 0,
+      "nodes": [
+         {
+            "name": "un_file.go",
+            "type": 1,
+         }  
+      ]
+    }
+  ]
+}
